@@ -1,3 +1,4 @@
+/*
 import 'dart:developer';
 import 'package:chat_app/components/text_component.dart';
 import 'package:chat_app/cubits/auth_cubit/auth_cubit.dart';
@@ -520,8 +521,7 @@ class _ChatPageState extends State<ChatPage> {
     );
   }
 }
-
-
+*/
 /*
 explain all variables and methods(1: what is this, 2: why i use it, 3: what can it do)
 * Variables:

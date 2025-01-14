@@ -1,9 +1,9 @@
+/*
 import 'package:chat_app/constant.dart';
 import 'package:flutter/material.dart';
 
-// ignore: must_be_immutable
 class TextFormFieldComponent extends StatefulWidget {
-  TextFormFieldComponent({
+  const TextFormFieldComponent({
     super.key,
     required this.hintText,
     required this.textInputType,
@@ -12,8 +12,8 @@ class TextFormFieldComponent extends StatefulWidget {
   });
   final String hintText;
   final TextInputType textInputType;
-  Function(String) onChanged;
-  String? Function(String?) validation;
+  final Function(String) onChanged;
+ final String? Function(String?) validation;
 
   @override
   State<TextFormFieldComponent> createState() => _TextFormFieldComponentState();
@@ -78,3 +78,4 @@ class _TextFormFieldComponentState extends State<TextFormFieldComponent> {
     );
   }
 }
+*/

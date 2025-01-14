@@ -1,3 +1,4 @@
+/*
 import 'package:chat_app/components/text_component.dart';
 import 'package:chat_app/components/text_form_field_component.dart';
 import 'package:chat_app/constant.dart';
@@ -207,3 +208,4 @@ class _LogInAndRegisterCategoryState extends State<LogInAndRegisterCategory> {
     );
   }
 }
+*/

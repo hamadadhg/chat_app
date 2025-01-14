@@ -1,3 +1,4 @@
+/*
 import 'package:chat_app/categories/log_in_and_register_category.dart';
 import 'package:chat_app/constant.dart';
 import 'package:chat_app/pages/register_page.dart';
@@ -21,3 +22,4 @@ class LogInPage extends StatelessWidget {
     );
   }
 }
+*/

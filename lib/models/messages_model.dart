@@ -1,3 +1,4 @@
+/*
 import 'package:chat_app/constant.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
 
@@ -38,3 +39,4 @@ class MessagesModel {
     );
   }
 }
+*/

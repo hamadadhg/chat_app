@@ -1,3 +1,4 @@
+/*
 import 'package:chat_app/helper/snack_bar_helper.dart';
 import 'package:flutter/material.dart';
 import 'package:permission_handler/permission_handler.dart';
@@ -21,3 +22,4 @@ Future<bool> requestMicrophonePermission(BuildContext context) async {
   }
   return false;
 }
+*/

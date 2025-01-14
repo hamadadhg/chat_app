@@ -1,3 +1,4 @@
+/*
 import 'package:chat_app/components/text_component.dart';
 import 'package:chat_app/constant.dart';
 import 'package:flutter/material.dart';
@@ -21,3 +22,4 @@ void showMessageToUser({
     ),
   );
 }
+*/

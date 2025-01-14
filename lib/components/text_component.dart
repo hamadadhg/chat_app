@@ -1,3 +1,4 @@
+/*
 import 'package:flutter/widgets.dart';
 
 class TextComponent extends StatelessWidget {
@@ -27,3 +28,4 @@ class TextComponent extends StatelessWidget {
     );
   }
 }
+*/

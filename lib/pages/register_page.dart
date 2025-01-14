@@ -1,3 +1,4 @@
+/*
 import 'package:chat_app/categories/log_in_and_register_category.dart';
 import 'package:chat_app/constant.dart';
 import 'package:flutter/material.dart';
@@ -20,3 +21,4 @@ class RegisterPage extends StatelessWidget {
     );
   }
 }
+*/
